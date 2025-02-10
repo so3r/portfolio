@@ -7,10 +7,10 @@ function App() {
       <div className="container">
         <div className="container project">
           <a href="https://layout-landing-page.vercel.app/" target="_blank">
-            <img src='../demo.png' className="logo" alt="Vite logo" />
+            <img src='demo.png' className="logo" alt="Vite logo" />
           </a>
           <a href="https://github.com/so3r/layout_landing-page" target="_blank">
-            <img src='../github.png' className="logo" alt="Vite logo" />
+            <img src='github.png' className="logo" alt="Vite logo" />
           </a>
           <p>
             <strong>Bang & Olufsen </strong>
@@ -22,10 +22,10 @@ function App() {
 
         <div className="container project">
           <a href="https://cats-catalog-frontend.netlify.app/" target="_blank">
-            <img src='../demo.png' className="logo react" alt="React logo" />
+            <img src='demo.png' className="logo react" alt="React logo" />
           </a>
           <a href="https://github.com/fs-oct24-cats-with-computers/catalog-frontend" target="_blank">
-            <img src='../github.png' className="logo" alt="Vite logo" />
+            <img src='github.png' className="logo" alt="Vite logo" />
           </a>
           <p>
           <strong>Phone Catalog </strong>
@@ -39,10 +39,10 @@ function App() {
 
         <div className="container project">
           <a href="https://so3r.github.io/todo/" target="_blank">
-            <img src='../demo.png' className="logo react" alt="React logo" />
+            <img src='demo.png' className="logo react" alt="React logo" />
           </a>
           <a href="https://github.com/so3r/todo" target="_blank">
-            <img src='../github.png' className="logo" alt="Vite logo" />
+            <img src='github.png' className="logo" alt="Vite logo" />
           </a>
           <p>
           <strong>Todo app </strong>
