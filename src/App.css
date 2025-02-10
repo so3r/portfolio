@@ -11,6 +11,7 @@
   flex-direction: column;
   font-size: large;
   font-family: monospace;
+  min-width: 400px;
 }
 .project{
   margin: 0 auto;
